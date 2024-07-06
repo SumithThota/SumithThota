@@ -118,7 +118,8 @@ I believe in public learning, and consider myself a proactive, responsible and r
   Spotify Clone | HTML, CSS | [Repo](https://github.com/SumithThota/Spotify-clone) | GitHub | [Spotify Clone](https://sumiththota.github.io/Spotify-clone/index.html)
   
   </details>
-
+  
+## 🧮 Stats:
 <!-- GitHub Statistics -->
 
 <details align="left"> 
