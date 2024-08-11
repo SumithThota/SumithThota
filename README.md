@@ -116,6 +116,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
   ------- | :---------: | :--------: | :--------: | :-----------:
   QuickQuiz | HTML, CSS, JS, PHP | [Repo](https://github.com/SumithThota/Quick-Quiz-Web-Project) | GitHub | [Quick Quiz](https://hardier-riddles.000webhostapp.com/login.html)
   Spotify Clone | HTML, CSS | [Repo](https://github.com/SumithThota/Spotify-clone) | GitHub | [Spotify Clone](https://sumiththota.github.io/Spotify-clone/index.html)
+  Personal Protfolio | HTML, CSS | [Repo](https://github.com/SumithThota/Portfolio) | GitHub | [Portfolio](https://sumiththota.netlify.app/)
   
   </details>
   
