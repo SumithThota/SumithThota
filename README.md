@@ -63,7 +63,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ## ©️ Important Links:
 
 - Linktree: [https://linktr.ee/sumith_thota](https://linktr.ee/sumith_thota)
-- Resume: [resume/Sumith_thota](https://drive.google.com/file/d/1j7qImhuFvYuQsvnoOO3eI0cNMZUMrzSO/view?usp=drive_link)
+- Resume: [resume/Sumith_thota](https://drive.google.com/drive/folders/13f8NynrYCDhZCnjdgCI02XN_bE_qduWe?usp=drive_link)
 
 <!-- Skills -->
 
