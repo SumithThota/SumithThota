@@ -1,3 +1,5 @@
+<img align="center" height="200" width="800" src="https://github.com/SumithThota/SumithThota/blob/main/cover.jpg" />
+
 <h1 align="center"> Hi, I'm Sumith Thota <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 <div align="center">
