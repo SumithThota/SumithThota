@@ -110,7 +110,6 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ## 🔭 Projects:
   
   <!-- Web Development -->
-  <details>
   <summary><b>Web Development</b></summary>
   <br/>
   
@@ -120,12 +119,11 @@ I believe in public learning, and consider myself a proactive, responsible and r
   Spotify Clone | HTML, CSS | [Repo](https://github.com/SumithThota/Spotify-clone) | GitHub | [Spotify Clone](https://sumiththota.github.io/Spotify-clone/index.html)
   Personal Protfolio | HTML, CSS | [Repo](https://github.com/SumithThota/Portfolio) | GitHub | [Portfolio](https://sumiththota.netlify.app/)
   
-  </details>
-  
+
 ## 🧮 Stats:
 <!-- GitHub Statistics -->
 
-<details align="left"> 
+
   <summary font-weight="bold">  📊 Github Statistics</summary>
   <br />
 
@@ -142,8 +140,6 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <!-- <img src="https://raw.githubusercontent.com/SumithThota/SumithThota/output/github-contribution-grid-snake.svg" width="1500" alt="Snake Game" />
 ![snake gif](https://raw.githubusercontent.com/SumithThota/SumithThota/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/SumithThota/SumithThota/blob/output/github-contribution-grid-snake.gif) -->
-</details>
-
 
 
 
