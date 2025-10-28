@@ -49,12 +49,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <a href="https://www.facebook.com/sumith.p.thota" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+918500448118" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Inspirethesociety" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
-  </a>
+
   <a href="https://t.me/sumiththota" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
