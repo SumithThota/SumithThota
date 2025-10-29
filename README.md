@@ -152,6 +152,6 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 
 
-## Hacktoberfest(24) Badges
+## Hacktoberfest(2k24-2k25) Badges
 [![An image of @sumiththota's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumiththota)](https://holopin.io/@sumiththota)
 
